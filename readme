@@ -1,0 +1,8 @@
+i used regex to find words in list and then perform the solution
+solution 1
+    1) I used list.count funciton in dict comprehention to calculate occurance.
+
+solution 2
+    1) I used dictionary for calculatting occurances as dictionary cannot have same keys with differnt values.
+    2) I use for loop to iterated and check for the occurance if already in dictioary key then it will be incremented by 1
+    other wise list word will be the key and 1 will be its value.
